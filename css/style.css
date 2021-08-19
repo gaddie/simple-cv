@@ -1,0 +1,24 @@
+body {
+    background-color: #D5EEBB;
+    }
+img {
+    height: 200px;
+    }
+hr {
+    border-style: dotted none none;
+    width: 10%;
+    border-color: #34656d;
+    border-width: 7px;
+
+    }
+h1 {
+    color: #444941;
+    font-style: italic;
+    }
+h3 {
+    color: #444941;
+    font-family: Cursive;
+    }
+.circular {
+    border-radius: 100%;
+}
